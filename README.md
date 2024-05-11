@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Edwin Upegui</h1>
+<h1 align="center">hey there 👋 I'm Edwin Upegui Full-Stack Developer</h1>
 
 ###
 
