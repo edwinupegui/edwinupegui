@@ -1,5 +1,5 @@
 <h1 align="center">hey there 👋 I'm Edwin Upegui</h1>
-<h2 align="center">🧑🏻‍💻 Full-Stack Developer</h1>
+<h2 align="center">🧑🏻‍💻 Full Stack Developer</h1>
 
 ###
 
