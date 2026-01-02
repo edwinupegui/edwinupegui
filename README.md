@@ -20,7 +20,7 @@
   <img src="https://my-github-stats-ecru.vercel.app/api?username=edwinupegui&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;them
   e=react&amp;hide_border=false&amp;cache_seconds=86400&amp;v=1" height="150" alt="languages graph" />
   <img
-    src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=6&theme=react"
+    src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=10&theme=react"
     height="150" alt="Top languages" />
 </div>
 
