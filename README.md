@@ -13,10 +13,10 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinupegui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinupegui&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=react&amp;hide_border=false&amp;cache_seconds=86400&amp;v=1" height="150" alt="languages graph" />
 </div>
 
-<h3 align="left">🛠 Languages & tools</h3>
+<h3 align="left">🛠 Languages &amp; tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
