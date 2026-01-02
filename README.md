@@ -17,8 +17,9 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://my-github-stats-ecru.vercel.app/api?username=edwinupegui&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;them
-  e=react&amp;hide_border=false&amp;cache_seconds=86400&amp;v=1" height="150" alt="languages graph" />
+  <img
+    src="https://my-github-stats-ecru.vercel.app/api?username=edwinupegui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&cache_seconds=86400&v=1"
+    height="150" alt="languages graph" />
   <img
     src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=10&theme=react"
     height="150" alt="Top languages" />
@@ -47,6 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs
   logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp
   logo" />
   <img width="12" />
@@ -54,14 +56,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter
   logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
-    alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb
-  logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
