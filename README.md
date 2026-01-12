@@ -23,8 +23,8 @@
     height="250" alt="languages graph" />
   -->
   <img
-    src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=15&theme=react"
-    height="250" alt="Top languages" />
+    src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=10&theme=react"
+    height="500" alt="Top languages" />
 </div>
 
 <h3 align="left">🛠 Languages &amp; tools</h3>
