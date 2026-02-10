@@ -14,18 +14,18 @@
   </a>
 </div>
 
+  <!--
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <!--
   <img
     src="https://my-github-stats-ecru.vercel.app/api?username=edwinupegui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&cache_seconds=86400&v=1"
     height="250" alt="languages graph" />
-  -->
   <img
     src="https://my-github-stats-ecru.vercel.app/api/top-langs?username=edwinupegui&layout=compact&langs_count=10&theme=react"
     height="500" alt="Top languages" />
 </div>
+  -->
 
 <h3 align="left">🛠 Languages &amp; tools</h3>
 
